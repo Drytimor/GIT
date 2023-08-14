@@ -8,3 +8,6 @@ def sum(x, y):
 
 class Person:
     pass
+
+def first():
+    pass
